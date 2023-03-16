@@ -1,2 +1,2 @@
 # Text-File-Sorter
-Filters text by alphabetical order removing any duplicates.
+Filters text by alphabetical order and is able to remove duplicates.
